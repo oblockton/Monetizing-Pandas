@@ -29,7 +29,7 @@ The final report will include each of the following:
 
 ### Purchasing Analysis (Gender)
 
-* The below each broken by gender
+* Purchasing analysis by gender
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
@@ -37,7 +37,7 @@ The final report will include each of the following:
 
 ### Age Demographics
 
-* The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
+* Grouped by age range in bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
@@ -45,7 +45,7 @@ The final report will include each of the following:
 
 ### Top Spenders
 
-* Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
+* Identify the the top 5 spenders in the game by total purchase value,  list them (in a table):
   * SN
   * Purchase Count
   * Average Purchase Price
